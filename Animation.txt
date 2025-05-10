@@ -1,0 +1,2 @@
+Animation between skeleton and getting Data
+https://stackblitz.com/edit/stackblitz-starters-jxwoj96l?file=package.json
